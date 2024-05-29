@@ -1,35 +1,7 @@
-# user-profile-app
+# User Profiles App
 
-This template should help get you started developing with Vue 3 in Vite.
+This is a Vue.js application that displays user profiles.
 
-## Recommended IDE Setup
+## Live Demo
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+The app is live at: [Hosted URL]([https://your-hosted-url.com](https://user-profile-q1krkp5za-sammans-projects-6c752c49.vercel.app))
